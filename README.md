@@ -76,4 +76,61 @@
     <a href="https://hardblast.com" target="_blank" class="btn">HardBlast Oficial</a>
   </div>
 </body>
+</html>ff005c66;
+    }
+    h1 {
+      font-size: 2rem;
+      color: #ff005c;
+    }
+    .stats {
+      margin-top: 1rem;
+      display: flex;
+      justify-content: space-around;
+      font-size: 1.2rem;
+    }
+    .btn {
+      margin: 1rem;
+      background: #ff005c;
+      color: #fff;
+      padding: 0.8rem 1.5rem;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .btn:hover {
+      background: #ff2e7d;
+    }
+    .tag {
+      font-size: 0.9rem;
+      background: #ff005c;
+      padding: 0.3rem 0.6rem;
+      border-radius: 5px;
+      display: inline-block;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>N-CORE</h1>
+    <div class="tag">Carta Legendaria - Edición Exclusiva</div>
+    <p><strong>"El ritmo se rompe, el suelo tiembla"</strong></p>
+    <div class="stats">
+      <div>
+        <strong>ENERGÍA</strong><br>98
+      </div>
+      <div>
+        <strong>VELOCIDAD</strong><br>94
+      </div>
+      <div>
+        <strong>RAREZA</strong><br>Legendaria
+      </div>
+    </div>
+    <a href="https://soundcloud.com/" target="_blank" class="btn">Escucha su set</a>
+    <a href="https://instagram.com/" target="_blank" class="btn">Síguelo en Instagram</a>
+    <a href="https://hardblast.com" target="_blank" class="btn">HardBlast Oficial</a>
+  </div>
+</body>
 </html>
