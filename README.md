@@ -76,4 +76,4 @@
     <a href="https://hardblast.com" target="_blank" class="btn">HardBlast Oficial</a>
   </div>
 </body>
-</html> 
+</html>
